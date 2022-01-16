@@ -80776,6 +80776,18 @@
       ]
     }
   ],
+  {
+    "chainId": 101,
+    "address": "6ePKtGk2Q6MkWXvccSW2pXAKvrUpM9KrxRDYMHx6XM7m",
+    "symbol": "IndS",
+    "name": "South India",
+    "decimals": 0,
+    "logoURI": "https://raw.githubusercontent.com/jayanthsugavasi/hpjs1/main/download.jpeg",
+    "tags": [
+      "social-token"
+    ]
+  }
+],
   "version": {
     "major": 0,
     "minor": 3,
